@@ -6,10 +6,10 @@
         versionCode = "36100"
         android-versionCode="36100"
         version   = "3.6.1">
-    <name>Enstitü - Online Egitim</name>
+    <name>Enstitu - Online Egitim</name>
 
     <description>
-        officialEnstitü - Online Egitim app
+        officialEnstitu - Online Egitim app
     </description>
 
     <author href="http://moodle.com" email="harshil@vibidsoft.com">
