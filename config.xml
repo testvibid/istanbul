@@ -6,7 +6,7 @@
         versionCode = "36100"
         android-versionCode="36100"
         version   = "3.6.1">
-    <name>Enstitu Online Egitim</name>
+    <name>Enstitü</name>
 
     <description>
         İstanbul İşletme Enstitüsü online eğitim uygulaması.
@@ -167,6 +167,11 @@
 
     <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:name='EnstituOnlineEgitim']" mode="merge">
         <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="true"></activity>
+    </edit-config>
+        
+     <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:name='Enstitu']" mode="merge">
+        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="true"></activity>
+        <application android:label="Enstitü" />
     </edit-config>
 
     <!-- See MOBILE-892 -->
