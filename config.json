@@ -53,8 +53,6 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-    },
     "customurlscheme": "moodlemobile",
     "siteurl": "https://uzem.iienstitu.com/",
     "multisitesdisplay": "",
