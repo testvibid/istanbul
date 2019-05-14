@@ -54,21 +54,11 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
     },
     "customurlscheme": "moodlemobile",
     "siteurl": "https://uzem.iienstitu.com/",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148"
+    "privacypolicy": "https://www.iienstitu.com/sozlesmeler/gizlilik-ve-guvenlik-politikasi"
 }
