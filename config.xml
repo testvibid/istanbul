@@ -166,7 +166,7 @@
     </gap:plugin>
         
      <edit-config file="AndroidManifest.xml" target="/manifest/application/activity[@android:name='Enstitu']" mode="merge">
-        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize"></activity>
+        <activity android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale|screenLayout|smallestScreenSize" android:debuggable="true"></activity>
         <application android:label="Enstitü" />
     </edit-config>
 
