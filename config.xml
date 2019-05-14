@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.iienstitu.uzem"
-        versionCode = "36100"
-        android-versionCode="36100"
+        versionCode = "36101"
+        android-versionCode="36101"
         version   = "3.6.1">
     <name>Enstitu</name>
 
