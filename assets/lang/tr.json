@@ -219,7 +219,7 @@
     "addon.messages.searchnomessagesfound": "Mesaj bulunamadı",
     "addon.messages.searchnononcontactsfound": "Hiçbir kişi bulunamadı",
     "addon.messages.sendcontactrequest": "Mesaj İsteği Gönder",
-    "addon.messages.showdeletemessages": "Silinen mesajları göster",
+    "addon.messages.showdeletemessages": "Mesajlari sil",
     "addon.messages.type_blocked": "Engellendi",
     "addon.messages.type_offline": "Çevrimdışı",
     "addon.messages.type_online": "Çevrimiçi",
