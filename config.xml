@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.iienstitu.uzem"
         versionCode = "36101"
-        android-versionCode="36101"
+        android-versionCode="36102"
         version   = "3.6.1">
     <name>Enstitu</name>
 
